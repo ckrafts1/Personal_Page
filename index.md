@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
- <title>Kelvin Lee - ePortfolio</title>
+ Kelvin Lee - ePortfolio
 
 Personal Information
 Kelvin Lee s3283521@student.rmit.edu.au
