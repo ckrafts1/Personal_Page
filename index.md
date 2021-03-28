@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
+Kelvin Lee
+ePortfolio
 
-You can use the [editor on GitHub](https://github.com/ckrafts1/Personal_Page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Personal Information
+Kelvin Lee s3283521@student.rmit.edu.au
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Taiwanese background but born and raised in Melbourne, fluent in 3 languages, Mandarin, Cantonese and of course English. I used to have a passion for the inner workings of the human mind, but with more years under my belt, I had lost quite a bit of faith in humanity, so now my curiosity has been diverted towards information technology, where everything makes sense in either 1s and 0s, a place where I do not have to deal with the inconsistencies of human morals and ideals. 
+These days, all I really do is work and play some games here and there, well aside from Uni of course. I mainly play Rainbow 6 Siege, reaching only a modest Platinum rank and I also dabble in Path Of Exile, I took a week of annual leave to attempt to race with players around the world, I held a consistent 7th position but ultimately lost due to having to go back to work. Can’t compete with the no-lifers. 
+Back during my funemployment days I used to clock upwards of 12+ hours a day gaming. Not exactly something I am exactly proud of, but I have made many lifelong friends whom I cherish. Sadly I’ve quit a lot of games I used to play back in the day, but apparently even if I’m quitting there was some money to be made, I was able to sell of my Dota2 inventory of skins for a modest $1600.
+I also have a cute little kitten; I’ve named her Sesame Seed Bun. CC for short, there were a couple other ridiculous names I wanted to give her, like Tess, short for Tesseract or even Bree, short for Toasted Brioche Bun. Don’t ask about the names, I just thought I was hilarious. 
 
-### Markdown
+Interest in IT
+Information Technology is a vast field with infinite applications and growth which have not been dreamt up yet. Who would have thought that today we would have working prototypes of bionic arms that respond to electrical signals from brainwaves? 
+My earliest memories with a computer harken back to an ancient machine complete with a colossal CRT monitor, mouse with removable ball (to play with and lose resulting in some scolding) and the ugly cream-white colour that all computers used to all ship as. A time when the floppy disk was more than the save icon, and when the internet used to sing you a song of its people whenever you attempted to connect.
+My first entertainment and interest with the PC also started around this time, thanks to a now classic game, Warcraft II: Tides of Darkness I used to play for hours, and when Warcraft III finally released, I would move onto that. From there I would develop a deep love and appreciation for Blizzard titles. 
+My love for gaming has not stopped. One of my greatest achievements with a computer was a world 4th ranking as a mythic tank in World of Warcraft. From the more serious gaming that I had been a part of, I had developed quite the curiosity and need to min-max everything, operating to the absolute maximum that I could. I had always been quite good with numbers. 
+Games have always been a passion of mine, even developing and creating games. However, I did not want to do digital assets, creativity is something I lacked. I wanted to know the inner workings of the games. How a single button press would result in an action from your playable character to the interaction that it had with the world, and how the game world would interact within itself.
+Overall, the inner workings of technology and programs is what made me want to pursue a career in IT. I wanted to be a part of the creation process and build something truly remarkable which could be used by millions of people. 
+RMIT is quite renown for its reputation in nurturing individuals in the tech field, and so, here I am. I am hoping that RMIT provides me the necessary tools and platforms for me to home in my interests further in the field of IT.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ideal Job
+What I would like to walk away with from RMIT is the ability and knowledge to get a job as a penetration tester, or, pen tester for short. 
+Reasons why I would like to pursue this field stems back from my curiosity for finding out how things work under the hood. If I am able to understand how something works, then breaking into something should be just as fun. To try and crack and slip through security measures in place, to leave the target broken and exploited. That just sounds like a lot of fun for me. Oh, and I get to tell everyone I’m a pen tester, with no explaination. Which would make for a fun icebreaker. 
+From the research that I’ve put into this field, it seems the most common requirement is thorough knowledge of Linux systems, notably Kali Linux. Followed by an assorted array of languages with include and is not limited to C#/C++, Javascript, Java and Python. Computer science seems to also be quite desirable for the employers but I was also able to find many jobs which did not require any prior Higher Education provided you are proficient enough in the field. But aside from technical skills that are necessary for success in such a field, a high propensity towards problem solving would likely be desirable, as you’d have to think of and come up with many different ways to break into a network or a system. 
+It is to my belief that common knowledge would be inadequate in succeeding as a pen tester. As the common methods would obviously have safegards in place to prevent such predictable workarounds. Furthermore, it is my belief that my morbid curiosity for understanding that would make me an ideal candidate once I am able to aquire the skills needed.
+However, to be perfectly honest, I would say that I have little to no knowledge of anything in the hacking world. Too often in media we are treated to a crude image of someone in sunnies and a hoodie with a black screen and green text flashing back and forth at upwards of 5000+ wpm. I know this isn’t what really happens in this field of work but hell, I’d like to dress up like that and do some work just for fun. 
+To acquire such knowledge and skills, I plan to, and have begun already doing my own personal research on many topics regarding hacking and securities. I’ve set up a VM (Virtual Machine) with Linux and have started to familiarise myself with how that works. I also plan to direct my education at RMIT towards securities. Firstly I’d like to take on the 2nd year subject Security in Computing and Information Technology. Here is where I’d most likely start to make more of an informed decision of whether I’d like to pursue this as a career path further or not. Ultimately if all goes according to plan, I would like to work myself towards completing a Masters of Cybersecurity at RMIT.
+Aside from what RMIT can offer me, I plan to engross myself in the language of IT. I would like to delve deeper into the world of JavaScript and C++. JavaScript is a very common and almost universal language used in programming, utilized in ~95% of websites. Whereas C++ is a coding language useful for almost anything. If cybersecurities doesn’t work out for me, C++ would still be a strong language in my repertoir.
 
-```markdown
-Syntax highlighted code block
+Personal Profile cont.
 
-# Header 1
-## Header 2
-### Header 3
+These types of personality tests are used a lot in a myriad media. Back during the glory days of Facebook or even MySpace, you couldn’t scroll for a few posts before seeing someone else’s results of these tests. Quite often formatted as such “OMG I got (insert result) in the (insert quiz)! How accurate do you think this is? Find out for yourself at www.fullofads.com!” 
+To which you’d click the link and be greeted with autoplay music and ads. Come to think of it, I think Buzzfeed is still full of these pointless quizzes. 
+I personally do not think too much with the results of these test. Especially the ‘analysis’ sections, where a plethora of Barnum statements are riddled throughout every paragraph. 
+Furthermore, despite that many of these quizzes tell me that I am extremely introverted. I like to think I carry myself in a way that completely masks the introversion. For two of quizzes completed here it shows that my introversion is quite extreme. But I would like to believe I am nothing of the sort. I suppose you will find out once you meet me. 
+My other issue with these quizzes is that someone will see my introversion results and will automatically assume that I will not communicate in a group setting, will not speak up etc. 
+I will still act like myself in any group setting, there is no reason that these so-called personality traits and some self-inflicted need to conform to negatively impact anyone in a workplace or group setting. I am here to do a task, a job and what is asked of me. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ckrafts1/Personal_Page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+16 Personalities - Logician
+But I digress. As a Logician, I have the propensity to be a great analyst and abstract thinker. Able to link ideas and theory with real world application. Additionally, at the same time able to come up with new ways to tackle things, receptive to new perspectives. A great asset to groups by proposing other ways to tackle any obstacles.
+However, a logician also has the tendency to be rather withdrawn and reserved. Although I greatly cherish my times of solitude, I would not act in a way to the detriment of people who rely on me to contribute towards a common goal. Insensitivity is also an issue that Logicians sometimes exhibit. However, being a functioning adult, we should know that rubbing people the wrong way will not get you very far in life. Hence, I do not believe that this applies to me and find myself usually quite agreeable. 
+
+
+
+
+
+
+
+
+
+Learning Style Quiz
+This quiz is a little more interesting although nothing surprising. After years of study, I have come to the self-realization and understanding of what study methods work for me. As a visual learner, graphs, pictures and flowcharts enable me to make the most sense of things. I like to attribute this to me being a logical thinker, if ‘a’ results in ‘b’ then ‘c’ is the diagnosis and then ‘d’ is the fix etc. With visual aids, I will be more easily able to make these links and understandings of concepts. 
+
+Big Five Personality
+ 
+Bottom 4th percentile for extroversion. Wow. You would think I was not even functional. Emotional Stability in the top 10th percentile, I suppose that shows me off as a logical thinker who does not get swayed by emotions much. Everything else is middle of the ground. Nothing spectacular. Pretty normal person aside from the first two factors.
+
+When forming a team, I suppose that any and all willing parties would be adequate. There is no point not getting along with someone and doing poorly in a task just because you didn’t get along with someone. 
+
+Project
+Overview and idea
+A simple 2D bullet hell roguelike game for use on mobile device or browser based.
+Motivation
+I believe that a simple game to start with would be very interesting and useful. Beneath all the pretty imagery of a game it is layers and layers of code that have an action and reaction. A push of a button results in a gun being fired. That fired projectile now flies through the game world and impacts objects or enemies. What happens when that bullet impacts an enemy, they lose health or die etc. There are so many action/reaction and reward/consequences towards a simple game. This would serve to help further understanding in the world of programing and programs. 
+Description
+The game would be in a similar vein to the classic game of Contra 3 or even Asteroids. A top down 2D shooter. We would experiment with creating an arcade experience where hoards/waves of enemies appear onto the field, resulting in the user/players skill and reflexes to move and dodge the enemies while mowing down what they could. Kills and survival of waves would reward the player with points/currency, which then could be used to purchase character upgrades, i.e. stronger guns, faster reloads, faster movement etc. Which then comes to the monetization, what good is a mobile game these days without some monetization involved, people can pay for character boosts, faster unlocks of character boosts. Character avatar customization etc. But that will come later.
+Tools and Technologies
+Amazingly, there are a lot of free open-sourced platforms out there which will allow you to make a game with little to no programming ability. A good start would be to try our hand with these platforms and gradually make our way to more complex game engines. GameMaker Studio 2 is one such platform. It utilizes a drag-and-drop way of creating your game world. It is not a particular demanding software for what I would like to create. Though I guess that would depend on your asset count. 
+Skill Required
+None. Literally no skill needed. That is to say that skill would be very welcome as well. But the only true requirement is a curiosity on how games are made and a passion for finetuning things. With GameMaker Studio 2, it seems to have its own programming language which is very similar to C. But it is not necessary. 
+Outcome
+If this project is successful, we would learn more about the inner makings of a game. We would have a greater appreciation towards some true masterpieces of games out there. At the same time, we might be able to identify some not so great games out there who reuse asset packets or a reskinned clone of some game out there already.
+
