@@ -82,3 +82,4 @@ None. Literally no skill needed. That is to say that skill would be very welcome
 Outcome
 If this project is successful, we would learn more about the inner makings of a game. We would have a greater appreciation towards some true masterpieces of games out there. At the same time, we might be able to identify some not so great games out there who reuse asset packets or a reskinned clone of some game out there already.
 
+</html>
